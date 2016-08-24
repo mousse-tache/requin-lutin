@@ -25,6 +25,15 @@ a {
     border-radius:0;
 }
 
+.navbar-custom > a {
+  color:#ffffff;
+}
+
+.navbar-custom > a:hover {
+  color:#000000;
+}
+
+
 .form-signin {
   width:50%;
   margin:auto;
