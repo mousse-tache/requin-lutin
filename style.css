@@ -28,11 +28,6 @@ a {
 .navbar-custom .navbar-nav > li > a {
     color:#fff;
 }
-.navbar-custom .navbar-nav > .active > a, .navbar-nav > a:hover, .navbar-nav > .active > a:focus {
-    color: black;
-    background-color:#002080;
-    font-size:20px;
-}
 
 
 .form-signin {
