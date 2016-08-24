@@ -20,7 +20,7 @@ a {
 
 
 .navbar-custom {
-    background-color:#229922;
+    background-color:#002080;
     color:#ffffff;
     border-radius:0;
 }
@@ -30,12 +30,10 @@ a {
 }
 .navbar-custom .navbar-nav > .active > a, .navbar-nav > a:hover, .navbar-nav > .active > a:focus {
     color: #ffffff;
-    background-color:#229922;
+    background-color:#002080;
     font-size:20px;
 }
-.navbar-custom .navbar-brand {
-    color:#eeeeee;
-}
+
 
 .form-signin {
   width:50%;
