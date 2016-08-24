@@ -20,7 +20,7 @@ a {
 
 
 .navbar-custom {
-    background-color:#0033cc;
+    background-color:#229922;
     color:#ffffff;
     border-radius:0;
 }
@@ -28,15 +28,13 @@ a {
 .navbar-custom .navbar-nav > li > a {
     color:#fff;
 }
-
-.navbar-custom > a {
-  color:#ffffff;
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color:transparent;
 }
-
-.navbar-custom > a:hover {
-  color:#000000;
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
 }
-
 
 .form-signin {
   width:50%;
