@@ -28,6 +28,13 @@ a {
     color:#fff;
 }
 
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: white;
+    color:black;
+    font-size:110%;
+}
+
 
 .form-signin {
   width:50%;
