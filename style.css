@@ -25,6 +25,10 @@ a {
     border-radius:0;
 }
 
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+
 .navbar-custom > a {
   color:#ffffff;
 }
