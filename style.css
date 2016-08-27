@@ -40,3 +40,7 @@ a {
   width:50%;
   margin:auto;
 }
+
+.btn-default {
+  border-radius:0;
+}
